@@ -1,0 +1,10 @@
+# Executable files
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code settings
+.vscode/
